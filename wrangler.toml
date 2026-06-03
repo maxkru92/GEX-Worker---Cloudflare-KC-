@@ -1,0 +1,16 @@
+name = "gex-collector"
+main = "src/index.js"
+compatibility_date = "2024-09-23"
+compatibility_flags = ["nodejs_compat"]
+
+[triggers]
+crons = ["*/15 * * * *"]
+
+[[kv_namespaces]]
+binding = "GEX_KV"
+id = "bb9f6786bd5242bc8c89ac3c676916f3"
+
+[vars]
+SYMBOLS = "SPX,VIX"
+LOG_LEVEL = "info"
+HF_WEBHOOK_URL = "https://maxkru92-hermes-neu-volatility-vince.hf.space/webhook"
