@@ -1,7 +1,5 @@
 # GEX Collector — Cloudflare Worker
 
-**Krupp Capital Quantitative Desk** | Precision in Chaos, Alpha in Variance.
-
 Gamma Exposure (GEX) computation engine deployed as Cloudflare Worker.
 Fetches CBOE options chains, calculates GEX levels in real-time.
 
@@ -126,8 +124,11 @@ gex-worker/
   test-gex.mjs           -- Unit tests
 ```
 
+**Krupp Capital Quantitative Desk** | Precision in Chaos, Alpha in Variance.
+
 ---
 
 ### ⚠️ Disclaimer
 Dient ausschließlich der Unterhaltung und Bildung. Keine Anlageberatung.
-Krupp Capital Quantitative Desk | Precision in Chaos, Alpha in Variance.
+
+
