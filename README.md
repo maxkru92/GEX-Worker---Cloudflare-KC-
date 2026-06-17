@@ -1,4 +1,4 @@
-# GEX Collector — Cloudflare Worker
+# GEX Worker — Cloudflare Worker
 
 Gamma Exposure (GEX) computation engine deployed as Cloudflare Worker.
 Fetches CBOE options chains, calculates GEX levels in real-time.
