@@ -1,3 +1,6 @@
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/62e5b70a-a671-44bb-ad08-f248fb1f0000" />
+
+
 # GEX Worker — Cloudflare Worker
 
 Gamma Exposure (GEX) computation engine deployed as Cloudflare Worker.
